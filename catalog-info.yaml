@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: workshop-module4-python
+  title: Module 4 - Python
+  description: |
+    Creating and Deploying Your First Serverless Function
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - serverless
+    - python
+spec:
+  type: module
+  lifecycle: production
+  owner: group:default/cluster-admins
+  subcomponentOf: component:default/workshop-repository

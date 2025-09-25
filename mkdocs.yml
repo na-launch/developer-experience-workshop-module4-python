@@ -1,0 +1,8 @@
+site_name: Module 4 - Python
+site_description: Creating and Deploying Your First Serverless Function - Python
+
+nav:
+  - Overview: index.md
+
+plugins:
+  - techdocs-core
