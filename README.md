@@ -15,7 +15,7 @@ Instead of managing servers directly, your applications can scale automatically 
 
 ## 🐾 **Guided Walkthrough**
 
-1. Create a new project/namespace from the openshift ui and name it <username>-serverless
+1. Create a new project/namespace from the openshift ui and name it `<username>-serverless`
 2. From the openshift UI, start a new terminal
   - 2.1. Type in `oc project` to see which project you have enabled
   - 2.2. Type in `kn` to download the k-native CLI
